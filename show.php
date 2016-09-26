@@ -18,7 +18,7 @@ include_once('HexPicView.php');
 $title ='hexpic';
 
 $x = new HexPicView();
-$html. '';
+$html = '';
 
 //$w = 200;
 //$h = 100;
